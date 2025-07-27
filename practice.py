@@ -1,4 +1,9 @@
-# first_name="Wasif"
+first_name="Wasif"
+# print(first_name)
+# del(first_name)
+print(first_name.split())
+print(first_name)
+# print(first_name.lower())
 # print(type(first_name)==str)
 
 # age=input('Enter Your Age: ')
